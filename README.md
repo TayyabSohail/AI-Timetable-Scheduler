@@ -1,11 +1,11 @@
 # AI-Timetable-Scheduler
 Developed a class scheduling system in Python, employing genetic algorithms to optimize resource utilization and productivity while considering variables like classroom capacity and professor workload
-### _______________________________________________________________________________________________________________________________
+### ____________________________________________________________________________________________________________________________
 
 # BEFORE GENETIC ALGORITHM
 ## INITIAL CONFLICTS IN THE RANDOM TIMETABLE
 ![InitialConflict](https://github.com/TayyabSohail/AI-Timetable-Scheduler/assets/129260556/719e0d18-e26f-4db1-89d8-e6bb23bcaa39)
-### _______________________________________________________________________________________________________________________________
+### ____________________________________________________________________________________________________________________________
 
 # AFTER GENETIC ALGORITHM
 
