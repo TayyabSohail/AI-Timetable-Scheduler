@@ -3,6 +3,10 @@
 The Class Timetable Optimization project employs a genetic algorithm to automate the creation of optimized schedules for educational institutions. By encoding timetable parameters into binary format and iteratively refining schedules through selection, crossover, and mutation operations, the system minimizes conflicts and maximizes resource utilization. This solution streamlines scheduling processes, ensuring efficient allocation of subjects, teachers, rooms, and timings while meeting institutional constraints.
 ### _________________________________________________________________________________________________________________________
 
+# REPORT:
+[REPORTUniversityTimeTableScheduler.pdf](https://github.com/TayyabSohail/AI-Timetable-Scheduler/files/15338345/REPORTUniversityTimeTableScheduler.pdf)
+### _________________________________________________________________________________________________________________________
+
 # BEFORE GENETIC ALGORITHM
 ## INITIAL CONFLICTS IN THE RANDOM TIMETABLE
 ![InitialConflict](https://github.com/TayyabSohail/AI-Timetable-Scheduler/assets/129260556/719e0d18-e26f-4db1-89d8-e6bb23bcaa39)
