@@ -22,5 +22,5 @@ The Class Timetable Optimization project employs a genetic algorithm to automate
 
 ## FINAL CONFLICTS IN THE GA APPLIED TIMETABLE
 ![FinalConflicts](https://github.com/TayyabSohail/AI-Timetable-Scheduler/assets/129260556/bb7daa8a-b99b-488b-a903-3c1e5126a6af)
-### _____________________________________________________________________________________________________________________
+### ____________________________________________________________________________________________________
 
