@@ -1,5 +1,6 @@
 # AI-Timetable-Scheduler
-Developed a class scheduling system in Python, employing genetic algorithms to optimize resource utilization and productivity while considering variables like classroom capacity and professor workload
+## PROJECT DESCRIPTION:
+The Class Timetable Optimization project employs a genetic algorithm to automate the creation of optimized schedules for educational institutions. By encoding timetable parameters into binary format and iteratively refining schedules through selection, crossover, and mutation operations, the system minimizes conflicts and maximizes resource utilization. This solution streamlines scheduling processes, ensuring efficient allocation of subjects, teachers, rooms, and timings while meeting institutional constraints.
 ### _________________________________________________________________________________________________________________________
 
 # BEFORE GENETIC ALGORITHM
